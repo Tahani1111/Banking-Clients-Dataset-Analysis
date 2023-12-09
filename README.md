@@ -35,5 +35,7 @@ The pie chart shows the percentage of people who have taken a loan to buy a hous
 ![](housing.png)
 
 ## What are the methods to contact with clients?
-The graph shows a bar chart comparing the number of contacts with clients through different channels. 
+The bar chart compares the number of contacts with clients through different channels. 
 ![](contacts.png)
+
+
