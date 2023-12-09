@@ -11,6 +11,7 @@ This task is to demonstrate analysis of the Northwind traders dataset using Micr
 7.	What is the client’s material status?
 8.	What is the percentage of clients with housing loans?
 9.	What are the methods to contact with clients?
+10.	Which type of clients are most likely to default on loans?
 
 
 ## DATA TRANSFORMATION & CLEANING
@@ -38,4 +39,6 @@ The pie chart shows the percentage of people who have taken a loan to buy a hous
 The bar chart compares the number of contacts with clients through different channels. 
 ![](contacts.png)
 
-
+## Which type of clients are most likely to default on loans?
+The bar charts below, show that clients who are married with a secondary educational level and their age between 27 and 37 are more likely to default on their loans.
+![](defaults.png)
