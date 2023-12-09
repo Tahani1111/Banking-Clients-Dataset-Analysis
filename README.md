@@ -1,6 +1,6 @@
 # Banking-Clients-Dataset-Analysis
 ## Introduction
-This task is to demonstrate analysis of the Northwind traders dataset using Microsoft Power BI for practicing purposes, the analysis requirements are to develop questions, dashboards and DAX formulas.
+This task is to demonstrate analysis of the Northwind traders dataset using Microsoft Power BI for practicing purposes, the analysis requirements are to develop questions and dashboards 
 ## Problem Statement
 1.	What is the total number of clients?
 2.	What is the total number of loan accounts?
@@ -42,3 +42,6 @@ The bar chart compares the number of contacts with clients through different cha
 ## Which type of clients are most likely to default on loans?
 The bar charts below, show that clients who are married with a secondary educational level and their age between 27 and 37 are more likely to default on their loans.
 ![](defaults.png)
+
+
+ 
