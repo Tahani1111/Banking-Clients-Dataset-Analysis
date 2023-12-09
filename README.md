@@ -25,5 +25,18 @@ The data was cleaned and filtered to make it easier to analyze. This included fo
 
 ## What are the client's educational level distributions?
 The educational level distribution in the graph shows that the majority of people have a secondary education, followed by tertiary education and primary education. The number of people with an unknown education level is very small.
-![](Fr_line.png)
+![](Education_level.png)
+## What is the client’s material status?
+The pie chart shows the percentage of clients who are married, divorced, and single. The majority of clients are married (62.19%), followed by single clients (28.29%) and divorced clients (11.52%).
+![](Material_status.png)
+
+## What is the percentage of clients with housing loans?
+The pie chart shows the percentage of people who have taken a loan to buy a house. The majority of people (55%) have taken a loan to buy a house, while the remaining 44% have not.
+![](housing.png)
+
+## What are the methods to contact with clients?
+The image shows a bar chart comparing the number of contacts with clients through different channels. The most common channel is cellular, followed by unknown. 
+![](contacts.png)
+
+
 
